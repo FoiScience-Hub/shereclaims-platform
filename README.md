@@ -32,6 +32,6 @@ This project is part of our mission to close socio-economic gaps and improve the
 To run this project locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shereclaims-platform.git
+git clone https://github.com/FoiScience-Hub/shereclaims-platform.git
 cd shereclaims-platform
 # Open index.html or follow WordPress setup instructions
